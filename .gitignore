@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+krak
+db.sqlite3
+/static
+.DS_Store 
+notes.txt
+kraken.key
